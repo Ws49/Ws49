@@ -29,7 +29,7 @@
   <img align="center" alt="Vscode" height="50" width="50" src="https://skillicons.dev/icons?i=vscode&theme=dark&perline=15">
   <img align="center" alt="Eclipse" height="50" width="50" src="https://skillicons.dev/icons?i=eclipse">
   <img align="center" alt="AndroidStudio" height="50" width="50" src="https://skillicons.dev/icons?i=androidstudio&theme=dark&perline=15">
-  <h1>SO</h1>
+  <h1>SO's</h1>
   <img align="center" alt="Kali" height="50" width="50" src="https://skillicons.dev/icons?i=kali">
   <img align="center" alt="windows" height="50" width="50" src="https://skillicons.dev/icons?i=windows">
   <h1></h1>
