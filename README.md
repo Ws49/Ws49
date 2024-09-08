@@ -6,7 +6,7 @@
 - Meu nome é Isaque <br>
 - Atualmente curso informática no CEFET-MG<br>
 - Estou aprendendo/aprendi tecnícas avançadas em algumas linguagens voltadas ao Back-End<br>
-- Tenho muito interesse em Back-End mas principalmente em Cybersegurança Offensiva<br><br>
+- Tenho muito interesse em Back-End mas principalmente em Offensive security<br><br>
   <a href="mailto:isaquealmeidasousa@hotmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
     </a>
