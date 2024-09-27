@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B07FF0&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0017c5&height=120&section=header"/>
 
 <h1 align="center">Olá! ♾️</h1>
 <p align="center">
@@ -35,7 +35,7 @@
   <h1></h1>
   
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B07FF0&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0017c5&height=120&section=header"/>
 <!---
 Ws49/Ws49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
