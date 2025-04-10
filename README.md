@@ -14,7 +14,7 @@
 </p>
 
   <div style="display: inline_block" align="center"><br>
-  <h1>Linguagens em formação</h1>
+  <h1>Linguagens</h1>
   <img align="center" alt="Ws-C" height="50" width="50" src="https://skillicons.dev/icons?i=c">
   <img align="center" alt="Ws-Cpp" height="50" width="50" src="https://skillicons.dev/icons?i=cpp">
   <img align="center" alt="Ws-Java" height="50" width="50" src="https://skillicons.dev/icons?i=java">
