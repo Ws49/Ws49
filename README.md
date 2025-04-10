@@ -4,7 +4,7 @@
 <p align="center">
         <br>
 - Meu nome é Isaque <br>
-- Atualmente curso informática no CEFET-MG<br>
+- Atualmente conclui curso técnico de informática no CEFET-MG<br>
 - Estou aprendendo/aprendi tecnícas avançadas em algumas linguagens voltadas ao Back-End<br>
 - Tenho muito interesse em Back-End mas principalmente em Offensive security<br><br>
   <a href="mailto:isaquealmeidasousa@hotmail.com">
