@@ -13,6 +13,11 @@
     <br>
 </p>
 
+<div align="center">
+  <img align="center" alt="Supabase"  src=https://github-readme-stats.vercel.app/api?username=Ws49&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&hide=issues&>
+   <img align="center" alt="Supabase"  src=https://github-readme-stats.vercel.app/api/top-langs/?username=Ws49&layout=compact&theme=transparent&hide_border=true&hide=portugol>
+</div>
+
   <div style="display: inline_block" align="center"><br>
   <h1>Linguagens</h1>
   <img align="center" alt="Ws-C" height="50" width="50" src="https://skillicons.dev/icons?i=c">
