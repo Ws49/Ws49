@@ -4,9 +4,11 @@
 <p align="center">
         <br>
 - Meu nome é Isaque <br>
+- Atualmente cursando Ciência da Computação na Pontifícia Universidade Católica de Minas Gerais(PUC-MG)<br>
 - Cursei informática no Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)<br>
 - Estou aprendendo/aprendi tecnícas avançadas em algumas linguagens voltadas ao Back-End<br>
 - Tenho muito interesse em Back-End mas principalmente em Offensive security<br><br>
+        https://isaquealmeidasousa.netlify.app/<br><br>
   <a href="mailto:isaquealmeidasousa@hotmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
     </a>
